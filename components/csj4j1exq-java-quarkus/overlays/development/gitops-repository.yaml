@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: csj4j1exq-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/csj4j1exq-java-quarkus-gitops
